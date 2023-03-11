@@ -1,0 +1,24 @@
+.op1{
+	color: red;
+	font-size: 1.4em;
+	}
+#op2{
+	color: #7332ff;
+	}
+.Titulo-principal{
+	text-align: center;
+	background-color: gray;
+    }
+span li{
+	list-style: none;
+	display: inline;
+    }
+    .cont-titulo{
+    	border: blue solid 2px;
+    	margin: 12px auto;
+    }
+
+    .barra-navegacion{
+    	border: blue solid 2px;
+    }
+
